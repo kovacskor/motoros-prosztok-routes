@@ -1,0 +1,21 @@
+{
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "albania-2026/azt-hittem/index.html": "8a0365d0f4591788f28c71c250d806cd00a648d518dd54169ad73339eb3ef709",
+    "albania-2026/azt-hittem/route.geojson": "88109cae418419b59f839af08818e9a0cadc20ed75c4b08fd97a034aa6a918b8",
+    "albania-2026/helyiek-mondtak/index.html": "797b5a70cf3f9d54d3d6de24bbedd6d3bcc85452d043895eea4c46ac96dc08af",
+    "albania-2026/helyiek-mondtak/route.geojson": "38412809a0e13c984a041628cf09819d248bdd1b0a15eef34ce018a28593877f",
+    "albania-2026/illegalisan-koszovoba/index.html": "676d74c2bdac4dc73bbe1bdd9ac5d0582517318d55f3abda3e83502ede4d77bf",
+    "albania-2026/illegalisan-koszovoba/route.geojson": "65ca4b774ad058ff21eb636b22043df84bc36a1d9e51abd979d2aac8d7d45bed",
+    "albania-2026/index.html": "bbd1ae6482d95bea1bf1c9270b979d5f8fa6f43c3e63a1aa3c67e36f0b0b3310",
+    "albania-2026/menekules-a-vihar-elol/index.html": "6e48bf6b70f32133e3792ea5ccd48b1f03447a77beff8909d8f14324ec213372",
+    "albania-2026/menekules-a-vihar-elol/route.geojson": "2a7bc2ce30d12019ccc45c6a0af350c2dfea774c9a91d58f8b009845014d61ad",
+    "albania-2026/tomorr-hegy/index.html": "2f78720d80ed3570eb1eb443f35d8f1fe6873e09fccd0d6502ee52c5d7c1490c",
+    "albania-2026/tomorr-hegy/route.geojson": "092dcc912347af8493b3a7049cc056c0a02f82bd06677efc8e7538ab7e027531",
+    "assets/css/style.css": "d05cdc6a34543bdd49b66ce74f558f632e4eec21ef727eb98f4ed42b67cbcaef",
+    "assets/js/route-viewer.js": "516317ca4cb5de2c2ebb9d0d51af43988d863be002cf994b268ae2e47c22d1ac",
+    "index.html": "ac541da68a710cbae8dc32d64582194904bb52d52877dca810d1aa89eae45dff"
+  },
+  "generator": "gpx-toolkit",
+  "version": 1
+}
