@@ -1,0 +1,940 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Motoros Prosztók GPX Toolkit">
+  <ns0:metadata>
+      <ns0:name>Megmásztuk a Tomorr hegyet motorral</ns0:name><ns0:desc>A videóhoz tartozó ténylegesen bejárt útvonal.</ns0:desc><ns0:author>
+        <ns0:link href="https://kurviger.com">
+          <ns0:text>Kurviger</ns0:text>
+          <ns0:type>text/html</ns0:type>
+        </ns0:link>
+      </ns0:author>
+      <ns0:link href="https://youtu.be/g3Kbl7_fPM8"><ns0:text>YouTube-videó</ns0:text><ns0:type>text/html</ns0:type></ns0:link></ns0:metadata>
+  <ns0:trk>
+    <ns0:name>Albán túra (Kornél)</ns0:name>
+    <ns0:trkseg>    
+      <ns0:trkpt lat="40.61808" lon="20.19481">
+        <ns0:ele>1495</ns0:ele>
+        <ns0:time>2026-09-22T11:48:03.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61818" lon="20.19477">
+        <ns0:ele>1495</ns0:ele>
+        <ns0:time>2026-09-22T11:48:07.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61811" lon="20.19471">
+        <ns0:ele>1496</ns0:ele>
+        <ns0:time>2026-09-22T11:48:11.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6179" lon="20.19464">
+        <ns0:ele>1498</ns0:ele>
+        <ns0:time>2026-09-22T11:48:15.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61782" lon="20.19457">
+        <ns0:ele>1499</ns0:ele>
+        <ns0:time>2026-09-22T11:51:44.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61775" lon="20.19433">
+        <ns0:ele>1503</ns0:ele>
+        <ns0:time>2026-09-22T11:51:48.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6179" lon="20.19419">
+        <ns0:ele>1506</ns0:ele>
+        <ns0:time>2026-09-22T11:51:52.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61815" lon="20.19397">
+        <ns0:ele>1511</ns0:ele>
+        <ns0:time>2026-09-22T11:51:56.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61846" lon="20.19376">
+        <ns0:ele>1513</ns0:ele>
+        <ns0:time>2026-09-22T11:52:00.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61874" lon="20.19355">
+        <ns0:ele>1518</ns0:ele>
+        <ns0:time>2026-09-22T11:52:04.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.619" lon="20.19324">
+        <ns0:ele>1523</ns0:ele>
+        <ns0:time>2026-09-22T11:52:08.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6192" lon="20.19308">
+        <ns0:ele>1526</ns0:ele>
+        <ns0:time>2026-09-22T11:52:12.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6193" lon="20.19302">
+        <ns0:ele>1527</ns0:ele>
+        <ns0:time>2026-09-22T11:52:16.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61942" lon="20.19298">
+        <ns0:ele>1528</ns0:ele>
+        <ns0:time>2026-09-22T11:52:20.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61963" lon="20.19284">
+        <ns0:ele>1530</ns0:ele>
+        <ns0:time>2026-09-22T11:52:24.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61985" lon="20.19265">
+        <ns0:ele>1534</ns0:ele>
+        <ns0:time>2026-09-22T11:52:28.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62003" lon="20.19238">
+        <ns0:ele>1539</ns0:ele>
+        <ns0:time>2026-09-22T11:52:32.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62017" lon="20.19222">
+        <ns0:ele>1542</ns0:ele>
+        <ns0:time>2026-09-22T11:52:36.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62029" lon="20.1921">
+        <ns0:ele>1544</ns0:ele>
+        <ns0:time>2026-09-22T11:52:40.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62028" lon="20.19198">
+        <ns0:ele>1545</ns0:ele>
+        <ns0:time>2026-09-22T11:52:44.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6202" lon="20.19191">
+        <ns0:ele>1543</ns0:ele>
+        <ns0:time>2026-09-22T11:52:48.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62011" lon="20.19188">
+        <ns0:ele>1540</ns0:ele>
+        <ns0:time>2026-09-22T11:52:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61986" lon="20.19256">
+        <ns0:ele>1536</ns0:ele>
+        <ns0:time>2026-09-22T11:52:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61969" lon="20.1928">
+        <ns0:ele>1531</ns0:ele>
+        <ns0:time>2026-09-22T11:53:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61948" lon="20.19296">
+        <ns0:ele>1529</ns0:ele>
+        <ns0:time>2026-09-22T11:53:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61933" lon="20.19301">
+        <ns0:ele>1528</ns0:ele>
+        <ns0:time>2026-09-22T11:53:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61933" lon="20.1931">
+        <ns0:ele>1528</ns0:ele>
+        <ns0:time>2026-09-22T11:53:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61947" lon="20.193">
+        <ns0:ele>1529</ns0:ele>
+        <ns0:time>2026-09-22T11:53:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61966" lon="20.19285">
+        <ns0:ele>1531</ns0:ele>
+        <ns0:time>2026-09-22T11:53:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61987" lon="20.19262">
+        <ns0:ele>1535</ns0:ele>
+        <ns0:time>2026-09-22T11:53:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62003" lon="20.19231">
+        <ns0:ele>1540</ns0:ele>
+        <ns0:time>2026-09-22T11:53:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62023" lon="20.1922">
+        <ns0:ele>1543</ns0:ele>
+        <ns0:time>2026-09-22T11:53:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62033" lon="20.19203">
+        <ns0:ele>1543</ns0:ele>
+        <ns0:time>2026-09-22T11:54:00.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6203" lon="20.19213">
+        <ns0:ele>1544</ns0:ele>
+        <ns0:time>2026-09-22T11:54:20.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62034" lon="20.19204">
+        <ns0:ele>1546</ns0:ele>
+        <ns0:time>2026-09-22T11:54:24.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62026" lon="20.19196">
+        <ns0:ele>1547</ns0:ele>
+        <ns0:time>2026-09-22T11:55:56.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62002" lon="20.19185">
+        <ns0:ele>1549</ns0:ele>
+        <ns0:time>2026-09-22T11:56:00.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61973" lon="20.19181">
+        <ns0:ele>1553</ns0:ele>
+        <ns0:time>2026-09-22T11:56:04.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61946" lon="20.19189">
+        <ns0:ele>1557</ns0:ele>
+        <ns0:time>2026-09-22T11:56:08.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61918" lon="20.19192">
+        <ns0:ele>1564</ns0:ele>
+        <ns0:time>2026-09-22T11:56:12.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6189" lon="20.19186">
+        <ns0:ele>1570</ns0:ele>
+        <ns0:time>2026-09-22T11:56:16.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61862" lon="20.19188">
+        <ns0:ele>1573</ns0:ele>
+        <ns0:time>2026-09-22T11:56:20.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61833" lon="20.19184">
+        <ns0:ele>1574</ns0:ele>
+        <ns0:time>2026-09-22T11:56:24.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61803" lon="20.19178">
+        <ns0:ele>1579</ns0:ele>
+        <ns0:time>2026-09-22T11:56:28.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61772" lon="20.19169">
+        <ns0:ele>1582</ns0:ele>
+        <ns0:time>2026-09-22T11:56:32.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61744" lon="20.19151">
+        <ns0:ele>1585</ns0:ele>
+        <ns0:time>2026-09-22T11:56:36.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61717" lon="20.19161">
+        <ns0:ele>1590</ns0:ele>
+        <ns0:time>2026-09-22T11:56:40.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61705" lon="20.19156">
+        <ns0:ele>1591</ns0:ele>
+        <ns0:time>2026-09-22T11:56:44.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61709" lon="20.19144">
+        <ns0:ele>1591</ns0:ele>
+        <ns0:time>2026-09-22T11:56:48.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61725" lon="20.19125">
+        <ns0:ele>1594</ns0:ele>
+        <ns0:time>2026-09-22T11:56:52.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61742" lon="20.19101">
+        <ns0:ele>1598</ns0:ele>
+        <ns0:time>2026-09-22T11:56:56.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61765" lon="20.19088">
+        <ns0:ele>1603</ns0:ele>
+        <ns0:time>2026-09-22T11:57:00.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61791" lon="20.19074">
+        <ns0:ele>1608</ns0:ele>
+        <ns0:time>2026-09-22T11:57:04.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61815" lon="20.19059">
+        <ns0:ele>1613</ns0:ele>
+        <ns0:time>2026-09-22T11:57:08.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61833" lon="20.19044">
+        <ns0:ele>1616</ns0:ele>
+        <ns0:time>2026-09-22T11:57:12.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61834" lon="20.19032">
+        <ns0:ele>1619</ns0:ele>
+        <ns0:time>2026-09-22T11:57:19.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61817" lon="20.19027">
+        <ns0:ele>1620</ns0:ele>
+        <ns0:time>2026-09-22T11:57:23.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61794" lon="20.19018">
+        <ns0:ele>1623</ns0:ele>
+        <ns0:time>2026-09-22T11:57:27.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6177" lon="20.19008">
+        <ns0:ele>1626</ns0:ele>
+        <ns0:time>2026-09-22T11:57:31.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61745" lon="20.19022">
+        <ns0:ele>1629</ns0:ele>
+        <ns0:time>2026-09-22T11:57:35.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61717" lon="20.19035">
+        <ns0:ele>1631</ns0:ele>
+        <ns0:time>2026-09-22T11:57:39.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61692" lon="20.19045">
+        <ns0:ele>1635</ns0:ele>
+        <ns0:time>2026-09-22T11:57:43.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61666" lon="20.19052">
+        <ns0:ele>1639</ns0:ele>
+        <ns0:time>2026-09-22T11:57:47.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61637" lon="20.19054">
+        <ns0:ele>1642</ns0:ele>
+        <ns0:time>2026-09-22T11:57:51.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6161" lon="20.19053">
+        <ns0:ele>1644</ns0:ele>
+        <ns0:time>2026-09-22T11:57:55.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61582" lon="20.19048">
+        <ns0:ele>1646</ns0:ele>
+        <ns0:time>2026-09-22T11:57:59.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61554" lon="20.19043">
+        <ns0:ele>1650</ns0:ele>
+        <ns0:time>2026-09-22T11:58:03.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61527" lon="20.19033">
+        <ns0:ele>1653</ns0:ele>
+        <ns0:time>2026-09-22T11:58:07.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61501" lon="20.1902">
+        <ns0:ele>1656</ns0:ele>
+        <ns0:time>2026-09-22T11:58:11.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61473" lon="20.19017">
+        <ns0:ele>1660</ns0:ele>
+        <ns0:time>2026-09-22T11:58:15.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61443" lon="20.19024">
+        <ns0:ele>1662</ns0:ele>
+        <ns0:time>2026-09-22T11:58:19.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61415" lon="20.19031">
+        <ns0:ele>1665</ns0:ele>
+        <ns0:time>2026-09-22T11:58:23.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61385" lon="20.19032">
+        <ns0:ele>1667</ns0:ele>
+        <ns0:time>2026-09-22T11:58:27.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61359" lon="20.1902">
+        <ns0:ele>1670</ns0:ele>
+        <ns0:time>2026-09-22T11:58:31.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6133" lon="20.19014">
+        <ns0:ele>1672</ns0:ele>
+        <ns0:time>2026-09-22T11:58:35.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.613" lon="20.19031">
+        <ns0:ele>1674</ns0:ele>
+        <ns0:time>2026-09-22T11:58:39.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61274" lon="20.19042">
+        <ns0:ele>1676</ns0:ele>
+        <ns0:time>2026-09-22T11:58:43.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6125" lon="20.19048">
+        <ns0:ele>1677</ns0:ele>
+        <ns0:time>2026-09-22T11:58:47.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61224" lon="20.1905">
+        <ns0:ele>1679</ns0:ele>
+        <ns0:time>2026-09-22T11:58:51.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61193" lon="20.19044">
+        <ns0:ele>1682</ns0:ele>
+        <ns0:time>2026-09-22T11:58:55.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61163" lon="20.19034">
+        <ns0:ele>1686</ns0:ele>
+        <ns0:time>2026-09-22T11:58:59.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61134" lon="20.19025">
+        <ns0:ele>1685</ns0:ele>
+        <ns0:time>2026-09-22T11:59:03.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61106" lon="20.1903">
+        <ns0:ele>1687</ns0:ele>
+        <ns0:time>2026-09-22T11:59:07.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61076" lon="20.19034">
+        <ns0:ele>1688</ns0:ele>
+        <ns0:time>2026-09-22T11:59:11.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61048" lon="20.19027">
+        <ns0:ele>1688</ns0:ele>
+        <ns0:time>2026-09-22T11:59:15.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61027" lon="20.19006">
+        <ns0:ele>1692</ns0:ele>
+        <ns0:time>2026-09-22T11:59:19.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61006" lon="20.18976">
+        <ns0:ele>1695</ns0:ele>
+        <ns0:time>2026-09-22T11:59:23.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61003" lon="20.1895">
+        <ns0:ele>1698</ns0:ele>
+        <ns0:time>2026-09-22T11:59:27.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61013" lon="20.18948">
+        <ns0:ele>1702</ns0:ele>
+        <ns0:time>2026-09-22T11:59:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61039" lon="20.18967">
+        <ns0:ele>1705</ns0:ele>
+        <ns0:time>2026-09-22T11:59:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61066" lon="20.18973">
+        <ns0:ele>1708</ns0:ele>
+        <ns0:time>2026-09-22T11:59:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61086" lon="20.18972">
+        <ns0:ele>1710</ns0:ele>
+        <ns0:time>2026-09-22T11:59:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61088" lon="20.18957">
+        <ns0:ele>1714</ns0:ele>
+        <ns0:time>2026-09-22T11:59:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61065" lon="20.18942">
+        <ns0:ele>1717</ns0:ele>
+        <ns0:time>2026-09-22T11:59:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61052" lon="20.18915">
+        <ns0:ele>1720</ns0:ele>
+        <ns0:time>2026-09-22T11:59:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61049" lon="20.18899">
+        <ns0:ele>1722</ns0:ele>
+        <ns0:time>2026-09-22T12:00:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61068" lon="20.18907">
+        <ns0:ele>1724</ns0:ele>
+        <ns0:time>2026-09-22T12:00:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61091" lon="20.18913">
+        <ns0:ele>1727</ns0:ele>
+        <ns0:time>2026-09-22T12:00:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61114" lon="20.18913">
+        <ns0:ele>1731</ns0:ele>
+        <ns0:time>2026-09-22T12:00:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61133" lon="20.1891">
+        <ns0:ele>1734</ns0:ele>
+        <ns0:time>2026-09-22T12:00:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61132" lon="20.18894">
+        <ns0:ele>1737</ns0:ele>
+        <ns0:time>2026-09-22T12:00:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61117" lon="20.18871">
+        <ns0:ele>1741</ns0:ele>
+        <ns0:time>2026-09-22T12:00:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61108" lon="20.18844">
+        <ns0:ele>1742</ns0:ele>
+        <ns0:time>2026-09-22T12:00:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61109" lon="20.18818">
+        <ns0:ele>1744</ns0:ele>
+        <ns0:time>2026-09-22T12:00:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61123" lon="20.18817">
+        <ns0:ele>1746</ns0:ele>
+        <ns0:time>2026-09-22T12:00:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61138" lon="20.18836">
+        <ns0:ele>1751</ns0:ele>
+        <ns0:time>2026-09-22T12:00:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6116" lon="20.1885">
+        <ns0:ele>1753</ns0:ele>
+        <ns0:time>2026-09-22T12:00:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61184" lon="20.18854">
+        <ns0:ele>1757</ns0:ele>
+        <ns0:time>2026-09-22T12:00:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61199" lon="20.18852">
+        <ns0:ele>1760</ns0:ele>
+        <ns0:time>2026-09-22T12:00:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61188" lon="20.18832">
+        <ns0:ele>1763</ns0:ele>
+        <ns0:time>2026-09-22T12:00:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61176" lon="20.18808">
+        <ns0:ele>1764</ns0:ele>
+        <ns0:time>2026-09-22T12:01:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6118" lon="20.18782">
+        <ns0:ele>1766</ns0:ele>
+        <ns0:time>2026-09-22T12:01:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6119" lon="20.18781">
+        <ns0:ele>1767</ns0:ele>
+        <ns0:time>2026-09-22T12:01:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61198" lon="20.18799">
+        <ns0:ele>1771</ns0:ele>
+        <ns0:time>2026-09-22T12:01:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61216" lon="20.1881">
+        <ns0:ele>1774</ns0:ele>
+        <ns0:time>2026-09-22T12:01:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61238" lon="20.18812">
+        <ns0:ele>1777</ns0:ele>
+        <ns0:time>2026-09-22T12:01:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61247" lon="20.18803">
+        <ns0:ele>1780</ns0:ele>
+        <ns0:time>2026-09-22T12:01:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61234" lon="20.18784">
+        <ns0:ele>1782</ns0:ele>
+        <ns0:time>2026-09-22T12:01:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61231" lon="20.18761">
+        <ns0:ele>1785</ns0:ele>
+        <ns0:time>2026-09-22T12:01:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61242" lon="20.18738">
+        <ns0:ele>1788</ns0:ele>
+        <ns0:time>2026-09-22T12:01:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61259" lon="20.18723">
+        <ns0:ele>1792</ns0:ele>
+        <ns0:time>2026-09-22T12:01:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61279" lon="20.18705">
+        <ns0:ele>1796</ns0:ele>
+        <ns0:time>2026-09-22T12:01:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61299" lon="20.18687">
+        <ns0:ele>1801</ns0:ele>
+        <ns0:time>2026-09-22T12:01:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61318" lon="20.18669">
+        <ns0:ele>1803</ns0:ele>
+        <ns0:time>2026-09-22T12:01:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61339" lon="20.1865">
+        <ns0:ele>1808</ns0:ele>
+        <ns0:time>2026-09-22T12:01:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6136" lon="20.18631">
+        <ns0:ele>1811</ns0:ele>
+        <ns0:time>2026-09-22T12:02:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61383" lon="20.1861">
+        <ns0:ele>1815</ns0:ele>
+        <ns0:time>2026-09-22T12:02:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61404" lon="20.18591">
+        <ns0:ele>1820</ns0:ele>
+        <ns0:time>2026-09-22T12:02:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61426" lon="20.18574">
+        <ns0:ele>1827</ns0:ele>
+        <ns0:time>2026-09-22T12:02:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61448" lon="20.1856">
+        <ns0:ele>1831</ns0:ele>
+        <ns0:time>2026-09-22T12:02:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61464" lon="20.18551">
+        <ns0:ele>1834</ns0:ele>
+        <ns0:time>2026-09-22T12:02:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61465" lon="20.18563">
+        <ns0:ele>1836</ns0:ele>
+        <ns0:time>2026-09-22T12:02:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6145" lon="20.18583">
+        <ns0:ele>1839</ns0:ele>
+        <ns0:time>2026-09-22T12:02:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61454" lon="20.18606">
+        <ns0:ele>1843</ns0:ele>
+        <ns0:time>2026-09-22T12:02:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61469" lon="20.18621">
+        <ns0:ele>1845</ns0:ele>
+        <ns0:time>2026-09-22T12:02:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61483" lon="20.18616">
+        <ns0:ele>1850</ns0:ele>
+        <ns0:time>2026-09-22T12:02:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6149" lon="20.18589">
+        <ns0:ele>1853</ns0:ele>
+        <ns0:time>2026-09-22T12:02:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61506" lon="20.18576">
+        <ns0:ele>1857</ns0:ele>
+        <ns0:time>2026-09-22T12:02:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61526" lon="20.18584">
+        <ns0:ele>1861</ns0:ele>
+        <ns0:time>2026-09-22T12:02:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61543" lon="20.1858">
+        <ns0:ele>1866</ns0:ele>
+        <ns0:time>2026-09-22T12:02:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61557" lon="20.18557">
+        <ns0:ele>1870</ns0:ele>
+        <ns0:time>2026-09-22T12:03:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61577" lon="20.1854">
+        <ns0:ele>1874</ns0:ele>
+        <ns0:time>2026-09-22T12:03:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61598" lon="20.1853">
+        <ns0:ele>1879</ns0:ele>
+        <ns0:time>2026-09-22T12:03:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61623" lon="20.18523">
+        <ns0:ele>1883</ns0:ele>
+        <ns0:time>2026-09-22T12:03:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61651" lon="20.18517">
+        <ns0:ele>1888</ns0:ele>
+        <ns0:time>2026-09-22T12:03:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61677" lon="20.18503">
+        <ns0:ele>1892</ns0:ele>
+        <ns0:time>2026-09-22T12:03:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.617" lon="20.18493">
+        <ns0:ele>1896</ns0:ele>
+        <ns0:time>2026-09-22T12:03:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6172" lon="20.18486">
+        <ns0:ele>1900</ns0:ele>
+        <ns0:time>2026-09-22T12:03:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6173" lon="20.18479">
+        <ns0:ele>1904</ns0:ele>
+        <ns0:time>2026-09-22T12:08:50.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61748" lon="20.18467">
+        <ns0:ele>1907</ns0:ele>
+        <ns0:time>2026-09-22T12:08:54.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61764" lon="20.18449">
+        <ns0:ele>1910</ns0:ele>
+        <ns0:time>2026-09-22T12:08:58.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61776" lon="20.18424">
+        <ns0:ele>1913</ns0:ele>
+        <ns0:time>2026-09-22T12:09:02.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61795" lon="20.1841">
+        <ns0:ele>1917</ns0:ele>
+        <ns0:time>2026-09-22T12:09:06.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61817" lon="20.18395">
+        <ns0:ele>1920</ns0:ele>
+        <ns0:time>2026-09-22T12:09:10.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61837" lon="20.1838">
+        <ns0:ele>1923</ns0:ele>
+        <ns0:time>2026-09-22T12:09:14.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61859" lon="20.18363">
+        <ns0:ele>1925</ns0:ele>
+        <ns0:time>2026-09-22T12:09:18.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61871" lon="20.18328">
+        <ns0:ele>1927</ns0:ele>
+        <ns0:time>2026-09-22T12:09:22.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61888" lon="20.18303">
+        <ns0:ele>1932</ns0:ele>
+        <ns0:time>2026-09-22T12:09:26.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61903" lon="20.18277">
+        <ns0:ele>1936</ns0:ele>
+        <ns0:time>2026-09-22T12:09:30.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61918" lon="20.18251">
+        <ns0:ele>1940</ns0:ele>
+        <ns0:time>2026-09-22T12:09:34.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61933" lon="20.18226">
+        <ns0:ele>1943</ns0:ele>
+        <ns0:time>2026-09-22T12:09:38.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61951" lon="20.18206">
+        <ns0:ele>1946</ns0:ele>
+        <ns0:time>2026-09-22T12:09:42.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61971" lon="20.18186">
+        <ns0:ele>1951</ns0:ele>
+        <ns0:time>2026-09-22T12:09:46.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.61993" lon="20.18171">
+        <ns0:ele>1957</ns0:ele>
+        <ns0:time>2026-09-22T12:09:50.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62017" lon="20.18153">
+        <ns0:ele>1962</ns0:ele>
+        <ns0:time>2026-09-22T12:09:54.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62041" lon="20.18133">
+        <ns0:ele>1966</ns0:ele>
+        <ns0:time>2026-09-22T12:09:58.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62064" lon="20.18115">
+        <ns0:ele>1971</ns0:ele>
+        <ns0:time>2026-09-22T12:10:02.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62079" lon="20.1809">
+        <ns0:ele>1974</ns0:ele>
+        <ns0:time>2026-09-22T12:10:06.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62092" lon="20.18068">
+        <ns0:ele>1976</ns0:ele>
+        <ns0:time>2026-09-22T12:10:10.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62092" lon="20.18036">
+        <ns0:ele>1982</ns0:ele>
+        <ns0:time>2026-09-22T12:10:14.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62077" lon="20.18002">
+        <ns0:ele>1987</ns0:ele>
+        <ns0:time>2026-09-22T12:10:18.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62056" lon="20.17978">
+        <ns0:ele>1990</ns0:ele>
+        <ns0:time>2026-09-22T12:10:22.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62038" lon="20.17959">
+        <ns0:ele>1995</ns0:ele>
+        <ns0:time>2026-09-22T12:10:26.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62041" lon="20.1795">
+        <ns0:ele>1997</ns0:ele>
+        <ns0:time>2026-09-22T12:10:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62062" lon="20.17954">
+        <ns0:ele>1998</ns0:ele>
+        <ns0:time>2026-09-22T12:10:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62088" lon="20.17954">
+        <ns0:ele>2001</ns0:ele>
+        <ns0:time>2026-09-22T12:11:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62103" lon="20.17951">
+        <ns0:ele>2004</ns0:ele>
+        <ns0:time>2026-09-22T12:11:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62092" lon="20.17932">
+        <ns0:ele>2006</ns0:ele>
+        <ns0:time>2026-09-22T12:11:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62081" lon="20.17908">
+        <ns0:ele>2011</ns0:ele>
+        <ns0:time>2026-09-22T12:11:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62082" lon="20.1788">
+        <ns0:ele>2013</ns0:ele>
+        <ns0:time>2026-09-22T12:11:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62095" lon="20.17861">
+        <ns0:ele>2016</ns0:ele>
+        <ns0:time>2026-09-22T12:11:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62116" lon="20.17847">
+        <ns0:ele>2019</ns0:ele>
+        <ns0:time>2026-09-22T12:11:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62139" lon="20.17831">
+        <ns0:ele>2022</ns0:ele>
+        <ns0:time>2026-09-22T12:11:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62163" lon="20.17815">
+        <ns0:ele>2026</ns0:ele>
+        <ns0:time>2026-09-22T12:11:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62187" lon="20.17798">
+        <ns0:ele>2030</ns0:ele>
+        <ns0:time>2026-09-22T12:11:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62212" lon="20.17789">
+        <ns0:ele>2033</ns0:ele>
+        <ns0:time>2026-09-22T12:11:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62236" lon="20.1778">
+        <ns0:ele>2036</ns0:ele>
+        <ns0:time>2026-09-22T12:11:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62256" lon="20.17761">
+        <ns0:ele>2039</ns0:ele>
+        <ns0:time>2026-09-22T12:11:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62272" lon="20.17736">
+        <ns0:ele>2040</ns0:ele>
+        <ns0:time>2026-09-22T12:11:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62267" lon="20.17705">
+        <ns0:ele>2044</ns0:ele>
+        <ns0:time>2026-09-22T12:11:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62251" lon="20.17676">
+        <ns0:ele>2049</ns0:ele>
+        <ns0:time>2026-09-22T12:12:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6224" lon="20.17651">
+        <ns0:ele>2053</ns0:ele>
+        <ns0:time>2026-09-22T12:12:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62248" lon="20.17629">
+        <ns0:ele>2055</ns0:ele>
+        <ns0:time>2026-09-22T12:12:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62268" lon="20.17612">
+        <ns0:ele>2057</ns0:ele>
+        <ns0:time>2026-09-22T12:12:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62289" lon="20.17594">
+        <ns0:ele>2060</ns0:ele>
+        <ns0:time>2026-09-22T12:12:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62312" lon="20.17581">
+        <ns0:ele>2064</ns0:ele>
+        <ns0:time>2026-09-22T12:12:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62338" lon="20.17569">
+        <ns0:ele>2066</ns0:ele>
+        <ns0:time>2026-09-22T12:12:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62365" lon="20.17555">
+        <ns0:ele>2069</ns0:ele>
+        <ns0:time>2026-09-22T12:12:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62388" lon="20.17539">
+        <ns0:ele>2073</ns0:ele>
+        <ns0:time>2026-09-22T12:12:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62411" lon="20.17515">
+        <ns0:ele>2076</ns0:ele>
+        <ns0:time>2026-09-22T12:12:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62434" lon="20.17491">
+        <ns0:ele>2079</ns0:ele>
+        <ns0:time>2026-09-22T12:12:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62455" lon="20.17469">
+        <ns0:ele>2084</ns0:ele>
+        <ns0:time>2026-09-22T12:12:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62471" lon="20.17444">
+        <ns0:ele>2088</ns0:ele>
+        <ns0:time>2026-09-22T12:12:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62469" lon="20.17419">
+        <ns0:ele>2089</ns0:ele>
+        <ns0:time>2026-09-22T12:12:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62457" lon="20.17404">
+        <ns0:ele>2093</ns0:ele>
+        <ns0:time>2026-09-22T12:12:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62441" lon="20.17389">
+        <ns0:ele>2096</ns0:ele>
+        <ns0:time>2026-09-22T12:13:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6242" lon="20.1737">
+        <ns0:ele>2099</ns0:ele>
+        <ns0:time>2026-09-22T12:13:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62401" lon="20.1735">
+        <ns0:ele>2104</ns0:ele>
+        <ns0:time>2026-09-22T12:13:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62399" lon="20.17323">
+        <ns0:ele>2108</ns0:ele>
+        <ns0:time>2026-09-22T12:13:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.624" lon="20.17291">
+        <ns0:ele>2111</ns0:ele>
+        <ns0:time>2026-09-22T12:13:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62401" lon="20.17257">
+        <ns0:ele>2112</ns0:ele>
+        <ns0:time>2026-09-22T12:13:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62403" lon="20.17229">
+        <ns0:ele>2114</ns0:ele>
+        <ns0:time>2026-09-22T12:13:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62422" lon="20.17231">
+        <ns0:ele>2117</ns0:ele>
+        <ns0:time>2026-09-22T12:13:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62446" lon="20.1725">
+        <ns0:ele>2121</ns0:ele>
+        <ns0:time>2026-09-22T12:13:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62466" lon="20.17266">
+        <ns0:ele>2123</ns0:ele>
+        <ns0:time>2026-09-22T12:13:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62479" lon="20.17259">
+        <ns0:ele>2126</ns0:ele>
+        <ns0:time>2026-09-22T12:13:41.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62475" lon="20.1722">
+        <ns0:ele>2129</ns0:ele>
+        <ns0:time>2026-09-22T12:13:45.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62466" lon="20.17183">
+        <ns0:ele>2132</ns0:ele>
+        <ns0:time>2026-09-22T12:13:49.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62467" lon="20.1715">
+        <ns0:ele>2136</ns0:ele>
+        <ns0:time>2026-09-22T12:13:53.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62472" lon="20.17115">
+        <ns0:ele>2137</ns0:ele>
+        <ns0:time>2026-09-22T12:13:57.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62486" lon="20.17086">
+        <ns0:ele>2141</ns0:ele>
+        <ns0:time>2026-09-22T12:14:01.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62501" lon="20.17059">
+        <ns0:ele>2146</ns0:ele>
+        <ns0:time>2026-09-22T12:14:05.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62517" lon="20.17033">
+        <ns0:ele>2148</ns0:ele>
+        <ns0:time>2026-09-22T12:14:09.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6253" lon="20.17021">
+        <ns0:ele>2151</ns0:ele>
+        <ns0:time>2026-09-22T12:14:13.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62536" lon="20.17042">
+        <ns0:ele>2155</ns0:ele>
+        <ns0:time>2026-09-22T12:14:17.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62546" lon="20.1707">
+        <ns0:ele>2158</ns0:ele>
+        <ns0:time>2026-09-22T12:14:21.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62558" lon="20.17094">
+        <ns0:ele>2163</ns0:ele>
+        <ns0:time>2026-09-22T12:14:25.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.6257" lon="20.171">
+        <ns0:ele>2165</ns0:ele>
+        <ns0:time>2026-09-22T12:14:29.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62577" lon="20.17074">
+        <ns0:ele>2168</ns0:ele>
+        <ns0:time>2026-09-22T12:14:33.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62588" lon="20.17048">
+        <ns0:ele>2170</ns0:ele>
+        <ns0:time>2026-09-22T12:14:37.000Z</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="40.62605" lon="20.1703">
+        <ns0:ele>2173</ns0:ele>
+        <ns0:time>2026-09-22T12:14:41.000Z</ns0:time>
+      </ns0:trkpt>
+      </ns0:trkseg>
+  </ns0:trk>
+</ns0:gpx>

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "illegalisan-koszovoba",
+  "name": "Véletlenül illegálisan beléptünk Koszovóba",
+  "description": "A videóhoz tartozó ténylegesen bejárt útvonal.",
+  "tour": {
+    "id": "albania-2026",
+    "name": "Albán motorostúra 2026 – videók",
+    "timezone": "Europe/Tirane",
+    "country": null,
+    "year": null
+  },
+  "category": "video",
+  "difficulty": null,
+  "youtube": {
+    "title": null,
+    "url": "https://youtu.be/ZJ66z6LpkZ4"
+  },
+  "wikiloc": null,
+  "requested_start": "2026-09-19T10:00:00",
+  "requested_end": "2026-09-19T14:00:00",
+  "tracks": 1,
+  "segments": 1,
+  "points": 1557,
+  "missing_timestamps": 0,
+  "distance_km": 69.87715547574872,
+  "start_time": "2026-09-19T08:00:09+00:00",
+  "end_time": "2026-09-19T11:59:57+00:00",
+  "duration_seconds": 14388.0,
+  "duration_minutes": 239.8,
+  "start_coordinate": [
+    43.14491,
+    20.52024
+  ],
+  "end_coordinate": [
+    43.02713,
+    20.44638
+  ],
+  "min_elevation_m": 489.0,
+  "max_elevation_m": 1348.0,
+  "ascent_m": 1773.0,
+  "descent_m": 1303.0,
+  "average_speed_kmh": 17.48385875122987,
+  "max_speed_kmh": 95.52306256026155,
+  "rejected_speed_pairs": 0,
+  "notes": [
+    "A távolság gömbi Haversine-becslés, magasságkorrekció nélkül.",
+    "A szintkülönbség nyers GPS-magasságon alapuló, zajérzékeny becslés.",
+    "Az átlagsebesség a teljes eltelt időt (szüneteket is) használja.",
+    "A maximum nyers pontpárok zajérzékeny becslése; a <=0 s és >300 km/h párok kizárva. Nem garantált mérés."
+  ],
+  "warnings": []
+}

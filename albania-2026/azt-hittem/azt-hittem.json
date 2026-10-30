@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "azt-hittem",
+  "name": "Azt hittem, ez lesz a nap legnagyobb perecelése… | Albánia motorral",
+  "description": "A videóhoz tartozó ténylegesen bejárt útvonal.",
+  "tour": {
+    "id": "albania-2026",
+    "name": "Albán motorostúra 2026 – videók",
+    "timezone": "Europe/Tirane",
+    "country": null,
+    "year": null
+  },
+  "category": "video",
+  "difficulty": null,
+  "youtube": {
+    "title": null,
+    "url": "https://youtu.be/doIXtNtu8ik"
+  },
+  "wikiloc": null,
+  "requested_start": "2026-09-22T08:00:00",
+  "requested_end": "2026-09-22T13:40:00",
+  "tracks": 1,
+  "segments": 1,
+  "points": 2143,
+  "missing_timestamps": 0,
+  "distance_km": 107.73098572264642,
+  "start_time": "2026-09-22T07:24:17+00:00",
+  "end_time": "2026-09-22T11:39:59+00:00",
+  "duration_seconds": 15342.0,
+  "duration_minutes": 255.7,
+  "start_coordinate": [
+    40.90897,
+    20.13906
+  ],
+  "end_coordinate": [
+    40.58904,
+    20.17313
+  ],
+  "min_elevation_m": 30.0,
+  "max_elevation_m": 1106.0,
+  "ascent_m": 2260.0,
+  "descent_m": 1335.0,
+  "average_speed_kmh": 25.27907369322951,
+  "max_speed_kmh": 96.4999959869559,
+  "rejected_speed_pairs": 0,
+  "notes": [
+    "A távolság gömbi Haversine-becslés, magasságkorrekció nélkül.",
+    "A szintkülönbség nyers GPS-magasságon alapuló, zajérzékeny becslés.",
+    "Az átlagsebesség a teljes eltelt időt (szüneteket is) használja.",
+    "A maximum nyers pontpárok zajérzékeny becslése; a <=0 s és >300 km/h párok kizárva. Nem garantált mérés."
+  ],
+  "warnings": []
+}

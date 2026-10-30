@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "helyiek-mondtak",
+  "name": "A helyiek mondták, hogy ne menjek arra. Felmentem. Albánia motorral",
+  "description": "A videóhoz tartozó ténylegesen bejárt útvonal.",
+  "tour": {
+    "id": "albania-2026",
+    "name": "Albán motorostúra 2026 – videók",
+    "timezone": "Europe/Tirane",
+    "country": null,
+    "year": null
+  },
+  "category": "video",
+  "difficulty": null,
+  "youtube": {
+    "title": null,
+    "url": "https://youtu.be/mo6hQKm43Ho"
+  },
+  "wikiloc": null,
+  "requested_start": "2026-09-21T11:00:00",
+  "requested_end": "2026-09-21T16:40:00",
+  "tracks": 1,
+  "segments": 1,
+  "points": 2499,
+  "missing_timestamps": 0,
+  "distance_km": 120.7456588543279,
+  "start_time": "2026-09-21T09:00:03+00:00",
+  "end_time": "2026-09-21T14:40:00+00:00",
+  "duration_seconds": 20397.0,
+  "duration_minutes": 339.95,
+  "start_coordinate": [
+    41.49322,
+    20.48486
+  ],
+  "end_coordinate": [
+    40.94899,
+    20.10669
+  ],
+  "min_elevation_m": 83.0,
+  "max_elevation_m": 1189.0,
+  "ascent_m": 1962.0,
+  "descent_m": 2271.0,
+  "average_speed_kmh": 21.311191443623105,
+  "max_speed_kmh": 110.51506306454552,
+  "rejected_speed_pairs": 0,
+  "notes": [
+    "A távolság gömbi Haversine-becslés, magasságkorrekció nélkül.",
+    "A szintkülönbség nyers GPS-magasságon alapuló, zajérzékeny becslés.",
+    "Az átlagsebesség a teljes eltelt időt (szüneteket is) használja.",
+    "A maximum nyers pontpárok zajérzékeny becslése; a <=0 s és >300 km/h párok kizárva. Nem garantált mérés."
+  ],
+  "warnings": []
+}

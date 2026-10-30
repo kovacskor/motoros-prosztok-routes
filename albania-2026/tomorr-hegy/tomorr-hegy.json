@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "tomorr-hegy",
+  "name": "Megmásztuk a Tomorr hegyet motorral",
+  "description": "A videóhoz tartozó ténylegesen bejárt útvonal.",
+  "tour": {
+    "id": "albania-2026",
+    "name": "Albán motorostúra 2026 – videók",
+    "timezone": "Europe/Tirane",
+    "country": null,
+    "year": null
+  },
+  "category": "video",
+  "difficulty": null,
+  "youtube": {
+    "title": null,
+    "url": "https://youtu.be/g3Kbl7_fPM8"
+  },
+  "wikiloc": null,
+  "requested_start": "2026-09-22T13:48:00",
+  "requested_end": "2026-09-22T14:18:00",
+  "tracks": 1,
+  "segments": 1,
+  "points": 231,
+  "missing_timestamps": 0,
+  "distance_km": 5.846606271135885,
+  "start_time": "2026-09-22T11:48:03+00:00",
+  "end_time": "2026-09-22T12:14:41+00:00",
+  "duration_seconds": 1598.0,
+  "duration_minutes": 26.633333333333333,
+  "start_coordinate": [
+    40.61808,
+    20.19481
+  ],
+  "end_coordinate": [
+    40.62605,
+    20.1703
+  ],
+  "min_elevation_m": 1495.0,
+  "max_elevation_m": 2173.0,
+  "ascent_m": 696.0,
+  "descent_m": 18.0,
+  "average_speed_kmh": 13.171328270393733,
+  "max_speed_kmh": 57.394097843464884,
+  "rejected_speed_pairs": 0,
+  "notes": [
+    "A távolság gömbi Haversine-becslés, magasságkorrekció nélkül.",
+    "A szintkülönbség nyers GPS-magasságon alapuló, zajérzékeny becslés.",
+    "Az átlagsebesség a teljes eltelt időt (szüneteket is) használja.",
+    "A maximum nyers pontpárok zajérzékeny becslése; a <=0 s és >300 km/h párok kizárva. Nem garantált mérés."
+  ],
+  "warnings": []
+}
