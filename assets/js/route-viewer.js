@@ -4,18 +4,20 @@
   const host = document.getElementById("route-map");
   if (!host) return;
   const status = document.getElementById("map-status");
+  const data = JSON.parse(document.getElementById("map-data").textContent);
+  const labels = data.labels;
   const say = (text) => { status.textContent = text; };
   if (!window.L) {
-    say("A térkép nem tölthető be. Ellenőrizd az internetkapcsolatot; a GPX és az útvonaladatok alább elérhetők.");
+    say(labels.load_error);
     return;
   }
   try {
-    const data = JSON.parse(document.getElementById("map-data").textContent);
-    const map = L.map(host, {scrollWheelZoom: false});
+    const map = L.map(host, {scrollWheelZoom: false, zoomControl: false});
+    L.control.zoom({zoomInTitle: labels.zoom_in, zoomOutTitle: labels.zoom_out}).addTo(map);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> közreműködők'
-    }).addTo(map).on("tileerror", () => say("Az alaptérkép egyes részei nem érhetők el. Az útvonal továbbra is megjelenik."));
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> ' + labels.contributors
+    }).addTo(map).on("tileerror", () => say(labels.tile_error));
     const bounds = L.latLngBounds([]);
     const overlays = {};
     const popupFor = (route) => {
@@ -26,7 +28,7 @@
       length.textContent = route.distance_label;
       const link = document.createElement("a");
       link.href = route.page_url;
-      link.textContent = "Részletes útvonal megnyitása →";
+      link.textContent = labels.popup;
       box.append(title, length, link);
       return box;
     };
@@ -49,19 +51,23 @@
         L.circleMarker([coordinate[1], coordinate[0]], {radius, color, fillColor: color, fillOpacity: 0.85, weight: 3})
           .bindTooltip(label).addTo(group);
       };
-      marker(start, "Indulás", "#14744a", 9);
-      marker(end, "Érkezés", "#af2441", 5);
+      marker(start, labels.marker_start, "#14744a", 9);
+      marker(end, labels.marker_end, "#af2441", 5);
       bounds.extend(geometry.getBounds());
       // Leaflet treats layer-control strings as HTML, so escape the label.
       const label = document.createElement("span");
       label.textContent = `${index + 1}. ${route.title}`;
       overlays[label.innerHTML] = group;
     });
-    if (data.routes.length > 1) L.control.layers(null, overlays, {collapsed: window.innerWidth < 650}).addTo(map);
+    if (data.routes.length > 1) {
+      const control = L.control.layers(null, overlays, {collapsed: window.innerWidth < 650}).addTo(map);
+      const toggle = control.getContainer().querySelector('.leaflet-control-layers-toggle');
+      if (toggle) { toggle.title = labels.layers; toggle.setAttribute('aria-label', labels.layers); }
+    }
     if (bounds.isValid()) map.fitBounds(bounds, {padding: [24, 24], maxZoom: 15});
     map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
     window.addEventListener("resize", () => map.invalidateSize());
   } catch (_error) {
-    say("A térkép megjelenítése sikertelen. Az útvonaladatok és a GPX-letöltés továbbra is elérhetők.");
+    say(labels.render_error);
   }
 })();

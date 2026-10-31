@@ -26,5 +26,7 @@ A távolság és a szintkülönbség GPS-adatokból számolt, zajérzékeny becs
 
 📥 [GPX letöltése](menekules-a-vihar-elol.gpx)
 
+🗺️ [Interactive map (English)](https://kovacskor.github.io/motoros-prosztok-routes/albania-2026/menekules-a-vihar-elol/index.en.html)
+
 🎬 [YouTube-videó](https://youtu.be/D5FxCHcg4qs)
 <!-- GPX-TOOLKIT:LINKS:END -->

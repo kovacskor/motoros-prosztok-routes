@@ -26,5 +26,7 @@ A távolság és a szintkülönbség GPS-adatokból számolt, zajérzékeny becs
 
 📥 [GPX letöltése](tomorr-hegy.gpx)
 
+🗺️ [Interactive map (English)](https://kovacskor.github.io/motoros-prosztok-routes/albania-2026/tomorr-hegy/index.en.html)
+
 🎬 [YouTube-videó](https://youtu.be/g3Kbl7_fPM8)
 <!-- GPX-TOOLKIT:LINKS:END -->

@@ -8,7 +8,20 @@
     "name": "Albán motorostúra 2026 – videók",
     "timezone": "Europe/Tirane",
     "country": null,
-    "year": null
+    "year": 2026,
+    "translations": {
+      "en": {
+        "name": "Albania Motorcycle Tour 2026 – Videos",
+        "description": null,
+        "youtube_title": null
+      }
+    }
+  },
+  "translations": {
+    "en": {
+      "name": "We Accidentally Crossed into Kosovo Illegally",
+      "description": "The actual recorded route shown in the video."
+    }
   },
   "category": "video",
   "difficulty": null,

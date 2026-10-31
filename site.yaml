@@ -1,1 +1,8 @@
 base_url: https://kovacskor.github.io/motoros-prosztok-routes/
+languages:
+- hu
+- en
+default_language: hu
+translations:
+  en:
+    title: Motoros Prosztók – Ridden Routes

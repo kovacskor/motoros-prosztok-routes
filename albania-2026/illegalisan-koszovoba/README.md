@@ -26,5 +26,7 @@ A távolság és a szintkülönbség GPS-adatokból számolt, zajérzékeny becs
 
 📥 [GPX letöltése](illegalisan-koszovoba.gpx)
 
+🗺️ [Interactive map (English)](https://kovacskor.github.io/motoros-prosztok-routes/albania-2026/illegalisan-koszovoba/index.en.html)
+
 🎬 [YouTube-videó](https://youtu.be/ZJ66z6LpkZ4)
 <!-- GPX-TOOLKIT:LINKS:END -->

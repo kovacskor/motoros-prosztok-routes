@@ -26,5 +26,7 @@ A távolság és a szintkülönbség GPS-adatokból számolt, zajérzékeny becs
 
 📥 [GPX letöltése](azt-hittem.gpx)
 
+🗺️ [Interactive map (English)](https://kovacskor.github.io/motoros-prosztok-routes/albania-2026/azt-hittem/index.en.html)
+
 🎬 [YouTube-videó](https://youtu.be/doIXtNtu8ik)
 <!-- GPX-TOOLKIT:LINKS:END -->
