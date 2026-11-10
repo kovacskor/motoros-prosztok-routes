@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "ketszer-kerulo-lett",
+  "name": "Kétszer levágtuk az utat. Kétszer kerülő lett. | Koszovó motorral",
+  "description": "A videóhoz tartozó ténylegesen bejárt útvonal.",
+  "tour": {
+    "id": "albania-2026",
+    "name": "Albán motorostúra 2026 – videók",
+    "timezone": "Europe/Tirane",
+    "country": null,
+    "year": 2026,
+    "translations": {
+      "en": {
+        "name": "Albania Motorcycle Tour 2026 – Videos",
+        "description": null,
+        "youtube_title": null
+      }
+    }
+  },
+  "translations": {
+    "en": {
+      "name": "Two Shortcuts, Two Detours | Kosovo by Motorcycle",
+      "description": "The actual recorded route shown in the video."
+    }
+  },
+  "category": "video",
+  "difficulty": null,
+  "youtube": {
+    "title": null,
+    "url": "https://youtu.be/xXr0oxC-8qY"
+  },
+  "wikiloc": null,
+  "requested_start": "2026-09-19T11:49:00",
+  "requested_end": "2026-09-19T18:20:00",
+  "tracks": 1,
+  "segments": 1,
+  "points": 3172,
+  "missing_timestamps": 0,
+  "distance_km": 211.89963278458512,
+  "start_time": "2026-09-19T09:49:02+00:00",
+  "end_time": "2026-09-19T16:19:55+00:00",
+  "duration_seconds": 23453.0,
+  "duration_minutes": 390.8833333333333,
+  "start_coordinate": [
+    43.00112,
+    20.62276
+  ],
+  "end_coordinate": [
+    42.21741,
+    20.72731
+  ],
+  "min_elevation_m": 355.0,
+  "max_elevation_m": 1260.0,
+  "ascent_m": 2966.0,
+  "descent_m": 3661.0,
+  "average_speed_kmh": 32.52627288724285,
+  "max_speed_kmh": 128.18116490276716,
+  "rejected_speed_pairs": 0,
+  "notes": [
+    "A távolság gömbi Haversine-becslés, magasságkorrekció nélkül.",
+    "A szintkülönbség nyers GPS-magasságon alapuló, zajérzékeny becslés.",
+    "Az átlagsebesség a teljes eltelt időt (szüneteket is) használja.",
+    "A maximum nyers pontpárok zajérzékeny becslése; a <=0 s és >300 km/h párok kizárva. Nem garantált mérés."
+  ],
+  "warnings": []
+}
