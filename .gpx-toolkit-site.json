@@ -24,8 +24,13 @@
     "albania-2026/tomorr-hegy/route.geojson": "092dcc912347af8493b3a7049cc056c0a02f82bd06677efc8e7538ab7e027531",
     "assets/css/style.css": "5233a1649172b54bed078b73f4736c4ac4e1c36e5eecb95cb2d34e9ef3a83171",
     "assets/js/route-viewer.js": "4660007eb56b8c220206313bfa23eefa679777ad68426b60a91fb200a8ddbe2d",
-    "index.en.html": "e34149c444261d28c1f2bcd5f1d6351fdaa7a80b3861a9150eadf97e308d9849",
-    "index.html": "7ed5939ee9358a081a5615d5a61cac101f13597d8b74144c5bf51d818d478e77"
+    "index.en.html": "7f36e3ee54b639f5f1584064dda02b1f8691a4a82f1f5851dd6107f3cf659d1c",
+    "index.html": "b26f94ad515b79aad037bfbb88f84beae76cfd58dff24368a3464f2f5951577c",
+    "marokko-2026/index.en.html": "a037d79d2468c42383dc4ba00ea031c5ffcc29812de5c168a42715903abe29d3",
+    "marokko-2026/index.html": "59a1f2be0ece7a1ca5407ec872a639cc7f73b3d603c4628a863d61d21e2b8c94",
+    "marokko-2026/piste-de-jaffar/index.en.html": "824aae4884504b302ac26d2170de3dcef6386476531dd95f8ef4af85409ed3b5",
+    "marokko-2026/piste-de-jaffar/index.html": "a8a8b8114787863f90b1d04a8853d24c35921f26f859d8b92eee4170730422a3",
+    "marokko-2026/piste-de-jaffar/route.geojson": "6b362a9e016b4778892d1527362f12c4cf2577ab3632b2ada864c6d143cf3a2e"
   },
   "generator": "gpx-toolkit",
   "languages": [

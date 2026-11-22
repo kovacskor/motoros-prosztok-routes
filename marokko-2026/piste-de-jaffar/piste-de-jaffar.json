@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "piste-de-jaffar",
+  "name": "„Engem még egyszer ilyenre nem visztek!” – Marokkó motorral a Piste de Jaffaron",
+  "description": "Midelt – Piste de Jaffar – Agoudal. A videóhoz tartozó ténylegesen bejárt útvonal.",
+  "tour": {
+    "id": "marokko-2026",
+    "name": "Marokkói motorostúra 2026 – videók",
+    "timezone": "Africa/Casablanca",
+    "country": null,
+    "year": null,
+    "translations": {
+      "en": {
+        "name": "Morocco Motorcycle Tour 2026 – Videos",
+        "description": null,
+        "youtube_title": null
+      }
+    }
+  },
+  "translations": {
+    "en": {
+      "name": "“Don’t Ever Bring Me Here Again!” – Riding Morocco’s Piste de Jaffar",
+      "description": "Midelt – Piste de Jaffar – Agoudal. The route we rode in the video."
+    }
+  },
+  "category": "video",
+  "difficulty": null,
+  "youtube": {
+    "title": null,
+    "url": "https://youtu.be/dHoeUo3DP_0"
+  },
+  "wikiloc": null,
+  "requested_start": "2026-03-23T09:00:00",
+  "requested_end": "2026-03-23T18:00:00",
+  "tracks": 1,
+  "segments": 1,
+  "points": 4818,
+  "missing_timestamps": 0,
+  "distance_km": 186.67802817644147,
+  "start_time": "2026-03-23T08:13:18+00:00",
+  "end_time": "2026-03-23T16:27:31+00:00",
+  "duration_seconds": 29653.0,
+  "duration_minutes": 494.21666666666664,
+  "start_coordinate": [
+    32.68387,
+    -4.74335
+  ],
+  "end_coordinate": [
+    32.00652,
+    -5.48612
+  ],
+  "min_elevation_m": 1450.0,
+  "max_elevation_m": 2647.0,
+  "ascent_m": 3979.0,
+  "descent_m": 3106.0,
+  "average_speed_kmh": 22.663504584196854,
+  "max_speed_kmh": 96.52216450821412,
+  "rejected_speed_pairs": 12,
+  "notes": [
+    "A távolság gömbi Haversine-becslés, magasságkorrekció nélkül.",
+    "A szintkülönbség nyers GPS-magasságon alapuló, zajérzékeny becslés.",
+    "Az átlagsebesség a teljes eltelt időt (szüneteket is) használja.",
+    "A maximum nyers pontpárok zajérzékeny becslése; a <=0 s és >300 km/h párok kizárva. Nem garantált mérés."
+  ],
+  "warnings": []
+}
